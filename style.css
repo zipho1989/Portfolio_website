@@ -31,3 +31,28 @@ footer {
     padding: 10px;
     background: powderblue;
 }
+
+.social-links {
+    margin-top: 10px;
+}
+
+.social-links > a {
+    margin: 0 10px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.social-links > a:hover {
+    text-decoration: underline;
+    font-size: 30x;
+    color: purple;
+}
+
+footer > p {
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
